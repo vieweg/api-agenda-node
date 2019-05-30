@@ -4,15 +4,15 @@ Aplicação desenvolvida em NODE.JS / Adonis
 
 Uma API de agenda simples, com as seguintes funcionalidades:
 
-- Multiplos usuarios(cada usuario possui sua propria agenda)T
+- Multiplos usuarios(cada usuario possui sua propria agenda)
 - Crie, edite e remova eventos em seu calendário
 - Compartilhe eventos de sua agenda por email
 
 ### Requisitos
 
-Ambiente de desenvolvimento para node.js instalado.
-Redis(Para fila de jobs)
-Banco de dados SQL
+Ambiente de desenvolvimento para node.js instalado. 
+Redis(Para fila de jobs) 
+Banco de dados SQL 
 [Projeto no Sentry](https://sentry.io), para captura de erros em produção
 
 ### Instalação
