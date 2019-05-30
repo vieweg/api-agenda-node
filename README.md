@@ -10,9 +10,9 @@ Uma API de agenda simples, com as seguintes funcionalidades:
 
 ### Requisitos
 
-Ambiente de desenvolvimento para node.js instalado. 
-Redis(Para fila de jobs) 
-Banco de dados SQL 
+Ambiente de desenvolvimento para node.js instalado.  
+Redis(Para fila de jobs)  
+Banco de dados SQL  
 [Projeto no Sentry](https://sentry.io), para captura de erros em produção
 
 ### Instalação
